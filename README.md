@@ -1,4 +1,4 @@
-# CerebellarDysfunction
+# cerebellar_dysfunction
 This repository contains code analysing a pilot scRNA-seq dataset, from the cerebellum of mice which are either WT or contain a mutation in a Transcription Factor (TF), which is important for cerebellar development.
 
 scanpyQC.ipynb QC's, normalises, clusters, and annotates the cells.
